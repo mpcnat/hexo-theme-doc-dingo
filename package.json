@@ -1,8 +1,8 @@
 {
-  "name": "hexo-theme-doc",
+  "name": "hexo-theme-doc-dingo",
   "version": "1.0.0-rc.1",
   "main": "index.js",
-  "description": "A documentation theme for Hexo",
+  "description": "A documentation theme for Hexo (Dingo)",
   "keywords": [
     "hexo",
     "documentation",
@@ -11,7 +11,7 @@
     "open-api"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/zalando-incubator/hexo-theme-doc",
+  "homepage": "https://github.com/mpcnat/hexo-theme-doc-dingo",
   "author": "Bhaskar Melkani <bhaskar.melkani@zalando.de>",
   "contributors": [
     "Ruben Barilani <ruben.barilani@zalando.de>"
